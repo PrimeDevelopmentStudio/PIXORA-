@@ -1,0 +1,8 @@
+{
+  "name": "Pixora",
+  "description": "Pixora - Create Anything. An all-in-one graphic design web application with rich templates, multi-layer artboard editing, shapes, typography, photo filters, and high-res export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
